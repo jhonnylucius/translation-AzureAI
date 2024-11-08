@@ -20,10 +20,10 @@ Este projeto é um tradutor de documentos `.docx` que usa a API do Azure Cogniti
 
 Insira sua chave de assinatura e o endpoint do Azure Translator no código. Essas variáveis estão definidas no trecho:
 
-python
-subscription_key = "SUA_CHAVE_DE_ASSINATURA"
-endpoint = 'SEU_ENDPOINT'
-location = "SUA_LOCALIDADE"  # Exemplo: "eastus"
+python</br>
+subscription_key = "SUA_CHAVE_DE_ASSINATURA"</br>
+endpoint = 'SEU_ENDPOINT'</br>
+location = "SUA_LOCALIDADE"  # Exemplo: "eastus"</br>
 
 
 ## Uso
